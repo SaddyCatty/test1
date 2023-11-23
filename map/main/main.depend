@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1700392843 source:c:\users\86136\desktop\c语言算法文档\map\main\main.c
+	<stdio.h>
+	"graph.h"
+
+1700117185 c:\users\86136\desktop\c语言算法文档\map\main\map.h
+
+1700116618 source:c:\users\86136\desktop\c语言算法文档\map\main\map.c
+	"map.h"
+	<stdio.h>
+	<stdlib.h>
+
+1700117303 source:c:\users\86136\desktop\c语言算法文档\map\main\destroy.c
+	<stdlib.h>
+	"map.h"
+
+1700117232 source:c:\users\86136\desktop\c语言算法文档\map\main\list.c
+	<stdlib.h>
+	<stdio.h>
+	"map.h"
+
+1700117589 c:\users\86136\desktop\c语言算法文档\map\main\martrix.h
+
+1700117515 c:\users\86136\desktop\c语言算法文档\map\main\list.h
+
+1700117423 c:\users\86136\desktop\c语言算法文档\map\main\tranversal.h
+
+1700117354 c:\users\86136\desktop\c语言算法文档\map\main\destroy.h
+
+1700117210 source:c:\users\86136\desktop\c语言算法文档\map\main\martrix.c
+	<stdio.h>
+	<string.h>
+	"map.h"
+
+1700117259 source:c:\users\86136\desktop\c语言算法文档\map\main\tranversal.c
+	<stdio.h>
+	<stdlib.h>
+	"map.h"
+
+1700392818 c:\users\86136\desktop\c语言算法文档\map\main\graph.h
+
+1700392967 source:c:\users\86136\desktop\c语言算法文档\map\main\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+

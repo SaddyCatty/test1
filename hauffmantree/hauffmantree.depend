@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1699511550 source:c:\users\86136\desktop\cÓïÑÔËã·¨ÎÄµµ\hauffmantree\frequency_counter.c
+	"frequency_counter.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1699509703 c:\users\86136\desktop\cÓïÑÔËã·¨ÎÄµµ\hauffmantree\frequency_counter.h
+	<stdio.h>
+	<stdlib.h>
+
+1699513550 source:c:\users\86136\desktop\cÓïÑÔËã·¨ÎÄµµ\hauffmantree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"frequency_counter.h"
+	"huffman_tree.h"
+
+1699513971 c:\users\86136\desktop\cÓïÑÔËã·¨ÎÄµµ\hauffmantree\huffman_tree.h
+	"frequency_counter.h"
+
+1699513309 source:c:\users\86136\desktop\cÓïÑÔËã·¨ÎÄµµ\hauffmantree\huffman_tree.c
+	"huffman_tree.h"
+	<stdlib.h>
+	<string.h>
+
